@@ -1,7 +1,9 @@
 import React from 'react';
 
 const TablePage = () => {
-    return "";
+    return <div className="tablePage__main">
+
+    </div>;
 }
 
 export default TablePage;
